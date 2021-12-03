@@ -10,6 +10,6 @@ img {
     border-style: solid;
 }
 
-#soundboard {
+#soundboard, #soundboard2 {
     display: flex;
 }
